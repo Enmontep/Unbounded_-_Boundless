@@ -1,0 +1,1 @@
+collider = instance_nearest(x,y,obj_player_in)

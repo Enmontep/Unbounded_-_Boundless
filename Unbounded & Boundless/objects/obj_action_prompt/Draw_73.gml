@@ -1,0 +1,7 @@
+draw_self()
+var title = scribble(pop_title)
+title.starting_format("fnt_outline",c_white)
+title.align(fa_center,fa_top)
+title.wrap(160)
+title.outline(c_black)
+title.draw(x,y)

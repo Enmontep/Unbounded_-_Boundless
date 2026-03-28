@@ -1,0 +1,5 @@
+draw_self()
+var title = scribble(pop_title)
+title.align(fa_center,fa_top)
+title.wrap(160)
+title.draw(x,y-224)

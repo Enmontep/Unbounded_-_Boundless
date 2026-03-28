@@ -1,0 +1,1 @@
+text = "Thank you for playing this game, I hope that you will enjoy other projects of my when they come out.	-Enmontep"
